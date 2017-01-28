@@ -1,0 +1,9 @@
+New log file opened at Sat Jan 28 22:30:04 UTC 2017 by 27932@ubuntu-512mb-tor1-01
+Taking next connection to: 41692
+New client attempting to connect on port: 52010-41692
+  Address = /127.0.1.1:41692
+Server socket closed java.io.EOFException: null
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 27932@ubuntu-512mb-tor1-01 logs at Sat Jan 28 22:30:39 UTC 2017, goodbye.

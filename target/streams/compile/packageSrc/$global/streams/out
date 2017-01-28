@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mPackaging /home/ryan/groshare/target/scala-2.11/groceries_2.11-0.0.1-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	controllers/Application.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/ryan/groshare/app/controllers/Application.scala[0m
+[0m[[0mdebug[0m] [0m	logback.xml[0m
+[0m[[0mdebug[0m] [0m	  /home/ryan/groshare/conf/logback.xml[0m
+[0m[[0mdebug[0m] [0m	evolutions/default/2.sql[0m
+[0m[[0mdebug[0m] [0m	  /home/ryan/groshare/conf/evolutions/default/2.sql[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /home/ryan/groshare/conf/application.conf[0m
+[0m[[0mdebug[0m] [0m	models/Models.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/ryan/groshare/app/models/Models.scala[0m
+[0m[[0mdebug[0m] [0m	messages[0m
+[0m[[0mdebug[0m] [0m	  /home/ryan/groshare/conf/messages[0m
+[0m[[0mdebug[0m] [0m	evolutions[0m
+[0m[[0mdebug[0m] [0m	  /home/ryan/groshare/conf/evolutions[0m
+[0m[[0mdebug[0m] [0m	evolutions/default/1.sql[0m
+[0m[[0mdebug[0m] [0m	  /home/ryan/groshare/conf/evolutions/default/1.sql[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  /home/ryan/groshare/conf/routes[0m
+[0m[[0mdebug[0m] [0m	evolutions/default[0m
+[0m[[0mdebug[0m] [0m	  /home/ryan/groshare/conf/evolutions/default[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

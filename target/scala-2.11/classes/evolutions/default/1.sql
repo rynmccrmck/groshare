@@ -8,7 +8,7 @@ create table groceries (
   id                        bigint not null,
   name                      varchar(50) not null,
   quantity                  int,
-  notes                     varchar(50),
+  notes                     text,
   purchased                 boolean)
 ;
 
