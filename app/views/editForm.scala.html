@@ -1,0 +1,31 @@
+@(id: Long, computerForm: Form[Grocery])(implicit messages: Messages)
+
+@import helper._
+
+@implicitFieldConstructor = @{ FieldConstructor(twitterBootstrapInput.f) }
+
+@main {
+    
+    <h1>Edit item</h1>
+    
+    @form(routes.Application.update(id)) {
+        
+        <fieldset>
+        
+            @inputText(computerForm("name"), '_label -> "Name", '_help -> "")
+            @inputDate(computerForm("quantity"), '_label -> "Quantity", '_help -> "")
+            @inputDate(computerForm("notes"), '_label -> "Notes", '_help -> "")
+        </fieldset>
+        
+        <div class="actions">
+            <input type="submit" value="Save this item" class="btn primary"> or 
+            <a href="@routes.Application.list()" class="btn">Cancel</a> 
+        </div>
+        
+    }
+    
+    @form(routes.Application.delete(id), 'class -> "topRight") {
+        <input type="submit" value="Delete this item" class="btn danger">
+    }
+    
+}

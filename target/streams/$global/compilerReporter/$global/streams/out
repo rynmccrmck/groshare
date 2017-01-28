@@ -1,0 +1,4 @@
+[0m[[33mwarn[0m] [0m/Users/ryanmccormack/computer-database-scala/app/models/Models.scala:60: method apply in trait WithResult is deprecated: Use [[fold]], [[foldWhile]] or [[withResult]] instead, which manages resources and memory[0m
+[0m[[33mwarn[0m] [0m      ).apply.toList.map(row => Grocery([0m
+[0m[[33mwarn[0m] [0m        ^[0m
+[0m[[33mwarn[0m] [0mone warning found[0m

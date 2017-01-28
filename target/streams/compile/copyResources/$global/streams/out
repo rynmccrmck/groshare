@@ -1,0 +1,9 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/ryanmccormack/computer-database-scala/conf/application.conf,/Users/ryanmccormack/computer-database-scala/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/ryanmccormack/computer-database-scala/conf/evolutions,/Users/ryanmccormack/computer-database-scala/target/scala-2.11/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/Users/ryanmccormack/computer-database-scala/conf/logback.xml,/Users/ryanmccormack/computer-database-scala/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/ryanmccormack/computer-database-scala/conf/messages,/Users/ryanmccormack/computer-database-scala/target/scala-2.11/classes/messages)[0m
+[0m[[0mdebug[0m] [0m	(/Users/ryanmccormack/computer-database-scala/conf/routes,/Users/ryanmccormack/computer-database-scala/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/ryanmccormack/computer-database-scala/conf/evolutions/default,/Users/ryanmccormack/computer-database-scala/target/scala-2.11/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/Users/ryanmccormack/computer-database-scala/conf/evolutions/default/1.sql,/Users/ryanmccormack/computer-database-scala/target/scala-2.11/classes/evolutions/default/1.sql)[0m
+[0m[[0mdebug[0m] [0m	(/Users/ryanmccormack/computer-database-scala/conf/evolutions/default/2.sql,/Users/ryanmccormack/computer-database-scala/target/scala-2.11/classes/evolutions/default/2.sql)[0m

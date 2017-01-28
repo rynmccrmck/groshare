@@ -1,0 +1,27 @@
+@(computerForm: Form[Grocery])(implicit messages: Messages)
+
+@import helper._
+
+@implicitFieldConstructor = @{ FieldConstructor(twitterBootstrapInput.f) } 
+
+@main {
+    
+    <h1>Add an item</h1>
+    
+    @form(routes.Application.save()) {
+        
+        <fieldset>
+        
+            @inputText(computerForm("name"), '_label -> "Name", '_help -> "")
+            @inputText(computerForm("quantity"), '_label -> "Quantity", '_help -> "")
+            @inputText(computerForm("notes"), '_label -> "Notes", '_help -> "")
+        </fieldset>
+        
+        <div class="actions">
+            <input type="submit" value="Add this!" class="btn primary"> or 
+            <a href="@routes.Application.list()" class="btn">Cancel</a> 
+        </div>
+        
+    }
+    
+}
